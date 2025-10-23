@@ -1,0 +1,5 @@
+{
+  "name": "TEM Sample Smart Preparation System",
+  "description": "An intelligent annotation tool for TEM (Transmission Electron Microscope) sample preparation. Allows users to mark points, draw rectangles, and create polygons on sample images to guide the cutting and preparation process.",
+  "requestFramePermissions": []
+}
